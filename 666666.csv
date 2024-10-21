@@ -1,0 +1,97 @@
+"SA Covid Data.Days ",SA Covid Data.Group,SA Covid Data.Wave,Sum(SA Covid Data.in %),CountNonNull(SA Covid Data.Order2)
+1899-12-29T18:38:50.000Z,Cases,Beta wave,0,13
+1899-12-29T18:38:50.000Z,Cases,Delta wave,0,19
+1899-12-29T18:38:50.000Z,Cases,First wave,0,7
+1899-12-29T18:38:50.000Z,Cases,Omicron wave,0,1
+1899-12-29T18:38:50.000Z,Deaths,Beta wave,0,61
+1899-12-29T18:38:50.000Z,Deaths,Delta wave,0,67
+1899-12-29T18:38:50.000Z,Deaths,First wave,0,55
+1899-12-29T18:38:50.000Z,Deaths,Omicron wave,0,49
+1899-12-29T18:38:50.000Z,Excess deaths,Beta wave,4,85
+1899-12-29T18:38:50.000Z,Excess deaths,Delta wave,4,91
+1899-12-29T18:38:50.000Z,Excess deaths,First wave,0,79
+1899-12-29T18:38:50.000Z,Excess deaths,Omicron wave,4,73
+1899-12-29T18:38:50.000Z,Hospital admissions,Beta wave,0,37
+1899-12-29T18:38:50.000Z,Hospital admissions,Delta wave,0,43
+1899-12-29T18:38:50.000Z,Hospital admissions,First wave,0,31
+1899-12-29T18:38:50.000Z,Hospital admissions,Omicron wave,0,25
+1900-01-28T18:38:50.000Z,Cases,Beta wave,15,14
+1900-01-28T18:38:50.000Z,Cases,Delta wave,5,20
+1900-01-28T18:38:50.000Z,Cases,First wave,5,8
+1900-01-28T18:38:50.000Z,Cases,Omicron wave,20,2
+1900-01-28T18:38:50.000Z,Deaths,Beta wave,10,62
+1900-01-28T18:38:50.000Z,Deaths,Delta wave,5,68
+1900-01-28T18:38:50.000Z,Deaths,First wave,5,56
+1900-01-28T18:38:50.000Z,Deaths,Omicron wave,4,50
+1900-01-28T18:38:50.000Z,Excess deaths,Beta wave,20,86
+1900-01-28T18:38:50.000Z,Excess deaths,Delta wave,10,92
+1900-01-28T18:38:50.000Z,Excess deaths,First wave,5,80
+1900-01-28T18:38:50.000Z,Excess deaths,Omicron wave,10,74
+1900-01-28T18:38:50.000Z,Hospital admissions,Beta wave,20,38
+1900-01-28T18:38:50.000Z,Hospital admissions,Delta wave,10,44
+1900-01-28T18:38:50.000Z,Hospital admissions,First wave,10,32
+1900-01-28T18:38:50.000Z,Hospital admissions,Omicron wave,10,26
+1900-02-27T18:38:50.000Z,Cases,Beta wave,50,15
+1900-02-27T18:38:50.000Z,Cases,Delta wave,30,21
+1900-02-27T18:38:50.000Z,Cases,First wave,30,9
+1900-02-27T18:38:50.000Z,Cases,Omicron wave,45,3
+1900-02-27T18:38:50.000Z,Deaths,Beta wave,40,63
+1900-02-27T18:38:50.000Z,Deaths,Delta wave,20,69
+1900-02-27T18:38:50.000Z,Deaths,First wave,20,57
+1900-02-27T18:38:50.000Z,Deaths,Omicron wave,10,51
+1900-02-27T18:38:50.000Z,Excess deaths,Beta wave,60,87
+1900-02-27T18:38:50.000Z,Excess deaths,Delta wave,20,93
+1900-02-27T18:38:50.000Z,Excess deaths,First wave,20,81
+1900-02-27T18:38:50.000Z,Excess deaths,Omicron wave,21,75
+1900-02-27T18:38:50.000Z,Hospital admissions,Beta wave,30,39
+1900-02-27T18:38:50.000Z,Hospital admissions,Delta wave,30,45
+1900-02-27T18:38:50.000Z,Hospital admissions,First wave,30,33
+1900-02-27T18:38:50.000Z,Hospital admissions,Omicron wave,30,27
+1900-03-29T18:38:50.000Z,Cases,Beta wave,58,16
+1900-03-29T18:38:50.000Z,Cases,Delta wave,65,22
+1900-03-29T18:38:50.000Z,Cases,First wave,43,10
+1900-03-29T18:38:50.000Z,Cases,Omicron wave,,4
+1900-03-29T18:38:50.000Z,Deaths,Beta wave,78,64
+1900-03-29T18:38:50.000Z,Deaths,Delta wave,60,70
+1900-03-29T18:38:50.000Z,Deaths,First wave,40,58
+1900-03-29T18:38:50.000Z,Deaths,Omicron wave,,52
+1900-03-29T18:38:50.000Z,Excess deaths,Beta wave,90,88
+1900-03-29T18:38:50.000Z,Excess deaths,Delta wave,60,94
+1900-03-29T18:38:50.000Z,Excess deaths,First wave,40,82
+1900-03-29T18:38:50.000Z,Excess deaths,Omicron wave,,76
+1900-03-29T18:38:50.000Z,Hospital admissions,Beta wave,70,40
+1900-03-29T18:38:50.000Z,Hospital admissions,Delta wave,70,46
+1900-03-29T18:38:50.000Z,Hospital admissions,First wave,50,34
+1900-03-29T18:38:50.000Z,Hospital admissions,Omicron wave,,28
+1900-04-28T18:38:50.000Z,Cases,Beta wave,60,17
+1900-04-28T18:38:50.000Z,Cases,Delta wave,90,23
+1900-04-28T18:38:50.000Z,Cases,First wave,46,11
+1900-04-28T18:38:50.000Z,Cases,Omicron wave,,5
+1900-04-28T18:38:50.000Z,Deaths,Beta wave,82,65
+1900-04-28T18:38:50.000Z,Deaths,Delta wave,90,71
+1900-04-28T18:38:50.000Z,Deaths,First wave,45,59
+1900-04-28T18:38:50.000Z,Deaths,Omicron wave,,53
+1900-04-28T18:38:50.000Z,Excess deaths,Beta wave,95,89
+1900-04-28T18:38:50.000Z,Excess deaths,Delta wave,80,95
+1900-04-28T18:38:50.000Z,Excess deaths,First wave,43,83
+1900-04-28T18:38:50.000Z,Excess deaths,Omicron wave,,77
+1900-04-28T18:38:50.000Z,Hospital admissions,Beta wave,80,41
+1900-04-28T18:38:50.000Z,Hospital admissions,Delta wave,90,47
+1900-04-28T18:38:50.000Z,Hospital admissions,First wave,57,35
+1900-04-28T18:38:50.000Z,Hospital admissions,Omicron wave,,29
+1900-05-28T18:38:50.000Z,Cases,Beta wave,63,18
+1900-05-28T18:38:50.000Z,Cases,Delta wave,100,24
+1900-05-28T18:38:50.000Z,Cases,First wave,50,12
+1900-05-28T18:38:50.000Z,Cases,Omicron wave,,6
+1900-05-28T18:38:50.000Z,Deaths,Beta wave,87,66
+1900-05-28T18:38:50.000Z,Deaths,Delta wave,100,72
+1900-05-28T18:38:50.000Z,Deaths,First wave,50,60
+1900-05-28T18:38:50.000Z,Deaths,Omicron wave,,54
+1900-05-28T18:38:50.000Z,Excess deaths,Beta wave,100,90
+1900-05-28T18:38:50.000Z,Excess deaths,Delta wave,100,96
+1900-05-28T18:38:50.000Z,Excess deaths,First wave,45,84
+1900-05-28T18:38:50.000Z,Excess deaths,Omicron wave,,78
+1900-05-28T18:38:50.000Z,Hospital admissions,Beta wave,83,42
+1900-05-28T18:38:50.000Z,Hospital admissions,Delta wave,100,48
+1900-05-28T18:38:50.000Z,Hospital admissions,First wave,62,36
+1900-05-28T18:38:50.000Z,Hospital admissions,Omicron wave,,30
